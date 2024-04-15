@@ -10,7 +10,7 @@ pre-processing, model execution, and post-processing.
 ```python runsimple2d.py```
 
 ### The result of HandPose X model:
-![handx result](https://github.com/Codylyp/High-Performance-Hand-Pose-Estimation/blob/master/handx_result.gif)
+![handx result](https://github.com/Codylyp/High-Performance-Hand-Pose-Estimation/blob/main/handx_result.gif)
 
 Considering the different methods, losses, and network architectures of the two models, we
 infer that the HandPose X model has better predictions than the 2D Hand Pose Estimation
