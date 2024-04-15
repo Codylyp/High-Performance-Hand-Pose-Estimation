@@ -16,7 +16,7 @@ Considering the different methods, losses, and network architectures of the two 
 infer that the HandPose X model has better predictions than the 2D Hand Pose Estimation
 RGB model due to the following reasons:
 
-
+### Analysis:
 1. The HandPose X model predicts the coordinates of joints directly, which could avoid
 the possible precision problem when extracting joints from heatmaps.
 
